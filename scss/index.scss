@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+#root {
+  font-family: "Open Sans", sans-serif;
+  display: flex;
+  height: 100vh;
+  font-size: 2rem;
+  color: #3f3f3f;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffff;
+}
+.subtitle {
+  font-size: 1.2rem;
+  color: #f64582;
+}
+a {
+  text-decoration: none;
+  color: #3f3f3f;
+}
